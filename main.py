@@ -1,8 +1,6 @@
 '''
 
-                            Online Python Interpreter.
-                Code, Compile, Run and Debug python program online.
-Write your code in this editor and press "Run" button to execute it.
+          
 
 '''
 
@@ -24,7 +22,7 @@ sr = a ** (1 / 2)
 print(sr)
 
 # Import Math library to find exponential of number like a square root
-# import math
-# num = int(input("enter your number: "))
-# sr = math.sqrt(num)
-# print("your square root:", sr)
+import math
+num = int(input("enter your number: "))
+sr = math.sqrt(num)
+print("your square root:", sr)
